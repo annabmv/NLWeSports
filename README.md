@@ -4,7 +4,7 @@
 
 > Trilha explorer
 
-Projeto construído no evento Next Level Week da Rocketseat (2022).
+Projeto desenvolvido no evento Next Level Week (NLW) da Rocketseat (2022).
 
 [Clique aqui para acessar](https://annabmv.github.io/nlw-esports-explorer)
 
